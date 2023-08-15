@@ -41,12 +41,3 @@ def export_the_dataset():
 
 
 
-# TASK 4: Load the Cleaned dataset 'ecommerce.csv' to the database provided.
-# follow the instruction in the Task 5 description and complete the task as per it.
-
-# check if mysql table is created using "ecommerce"
-# Use this final dataset and upload it on the provided database for performing analysis in MySQL
-# To run this task click on the terminal and click on the run project
-
-
-
